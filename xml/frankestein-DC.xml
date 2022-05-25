@@ -28,7 +28,7 @@
 			<dc:date xsi:type="dcterms:W3CDTF">1823</dc:date>
 			<dc:type>Libro</dc:type>
 			<dc:format>Electronic resource</dc:format> 
-			<dc:identifier xsi:type="dcterms:URI">https://clamariani.github.io/E-pur-si-muove/item.html</dc:identifier>
+			<dc:identifier xsi:type="dcterms:URI">https://bele97.github.io/Frankenstein/index.html</dc:identifier>
 			<dc:source xsi:type="dcterms:URI">https://www.britannica.com/biography/Mary-Wollstonecraft-Shelley</dc:source>			
 			<dc:language xsi:type="dcterms:ISO639-2">Eng</dc:language>
 			<dc:coverage xsi:type="dcterms:TGN" ref="http://vocab.getty.edu/page/tgn/1000080">England</dc:coverage>
